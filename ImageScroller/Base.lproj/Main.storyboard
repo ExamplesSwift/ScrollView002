@@ -20,7 +20,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="qVx-Qp-gkX">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="zombies.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="qVx-Qp-gkX">
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
@@ -38,4 +38,7 @@
             <point key="canvasLocation" x="120.8" y="87.192118226600982"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="zombies.jpg" width="2592" height="1936"/>
+    </resources>
 </document>
